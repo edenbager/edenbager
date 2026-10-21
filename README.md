@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Eden 👋
 
-<!--
-**edenbager77-arch/edenbager77-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at the Academic College of Tel Aviv-Yaffo (MTA), graduating 2027.
+Looking for a student / junior developer role in the Tel Aviv area.
 
-Here are some ideas to get you started:
+**Languages:** Java · C# · C++ · C · Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [guess-market](https://github.com/edenbager77-arch/guess-market): Java client/server app
+- [GravityGuy](https://github.com/edenbager77-arch/GravityGuy): 2D Unity game in C#
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/eden-gabriel-bager-859a4a243)

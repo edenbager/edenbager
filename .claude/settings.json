@@ -1,9 +1,0 @@
-{
-  "enabledPlugins": {
-    "productivity@knowledge-work-plugins": false,
-    "tavily@knowledge-work-plugins": false,
-    "cowork-plugin-management@knowledge-work-plugins": false,
-    "data@anthropic-plugin-directory": false,
-    "2529b2d1-9426-48a5-a8ad-2ebc77af2815@anthropic-plugin-directory": false
-  }
-}
